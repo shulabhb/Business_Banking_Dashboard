@@ -1,8 +1,8 @@
-# Project-04
-Business Bank Account Dashboard using React and Django.
+#Business Bank Account Dashboard using React and Django.
+
 
 ## Overview
-This was a final project for the General Assembly Software Engineering course. It was a solitary project that allowed me to build an app relevant to the finance and small business industry that I have interest in. It was a 5 day project. 
+This was a project that allowed me to build an app relevant to the finance and small business industry that I have interest in.
 
 Revenoo is a B2b revenue tracking dashboard that allowed me to use Python and Django to handle backend structure and Authorisation, with React for the frontend. I enjoyed adding Companies House API to improve my apps service, as well as exercise my previously gained design and UX skills. 
 
@@ -14,7 +14,7 @@ I like to think I have quite a business-minded attitude towards the innovation o
 
 ## Project timeline and technologies used
 
-Build a React application in 5 days to showcase the following:
+Build a React application to showcase the following:
 * My technical skill set
 * My web design skill set
 * My industry interest
